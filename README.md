@@ -1,6 +1,6 @@
-I'm a full-stack software developer and team lead. I have worked mostly in .NET frameworks lately, with an increasing amount of TypeScript. My recent colleagues would tell you I specialize in:
+I'm a full-stack software developer and team lead, with an enthusiasm for helping others learn and grow in their careers. I have worked mostly on full-stack TypeScript applications lately, especially the data-intensive parts. I spent more time in .NET frameworks before that. My recent colleagues would tell you I specialize in:
 
-- Microsoft SQL Server performance
+- Database performance, particularly with Microsoft SQL Server
 - Technical mentorship and leadership
 - Business decision-making
 - AWS cloud architecture
